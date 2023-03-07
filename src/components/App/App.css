@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  color: #FFEE58;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.App button {
+  background-color: #FFEE58;
+  font-size: larger;
+  border-radius: 30px;
+  padding: 5px 10px;
+  margin: 5px;
+  min-width: 120px;
+}
+
+.App img {
+  border: #FFEE58 20px solid;
+  padding: 5px;
+}
