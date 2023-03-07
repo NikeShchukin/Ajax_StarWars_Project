@@ -7,7 +7,7 @@ This project was created by Mykyta Shchukin and Stas Romaniv as part of their st
 ## The tasks of the topic Ajax:
 
 
-![](./image/task-example.gif)
+![](./src/image/task-example.gif)
 
 ### Task 1
 Create Star Wars database application.
